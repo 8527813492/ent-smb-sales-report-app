@@ -1,0 +1,444 @@
+Actor Seg,Final Segment,Pickup,Delivery,Order Status,Product,Distinct Order Count
+CP,MM CP,,,ACTIVE,AirFiber COCP,1
+CP,MM CP,,,ACTIVE,Business Broadband,121
+CP,MM CP,,,ACTIVE,ILL,1147
+CP,MM CP,,,ACTIVE,L2MPLS VPN,30
+CP,MM CP,,,ACTIVE,L3 MPLS VPN,126
+CP,MM CP,,,ACTIVE,SIP Trunk,234
+CP,MM CP,,,ACTIVE,Tollfree,3
+CP,MM CP,,,ORDER CANCELLED,AirFiber COCP,22
+CP,MM CP,,,ORDER CANCELLED,Business Broadband,121
+CP,MM CP,,,ORDER CANCELLED,ILL,536
+CP,MM CP,,,ORDER CANCELLED,L2MPLS VPN,25
+CP,MM CP,,,ORDER CANCELLED,L3 MPLS VPN,91
+CP,MM CP,,,ORDER CANCELLED,SIP Trunk,73
+CP,MM CP,,,ORDER CANCELLED - IWO closed,ILL,63
+CP,MM CP,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,6
+CP,MM CP,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,31
+CP,MM CP,,,ORDER CANCELLED - IWO closed,SIP Trunk,21
+CP,MM CP,,,SAF COMPLETED,AirFiber COCP,1
+CP,MM CP,,,SAF COMPLETED,ILL,4
+CP,MM CP,,,SAF COMPLETED,L3 MPLS VPN,2
+CP,MM CP,,,SAF COMPLETED,SIP Trunk,2
+CP,MM CP,,,SAF OPEN STATUS,ILL,13
+CP,MM CP,,,SAF OPEN STATUS,SIP Trunk,1
+CP,MSMB CP,,,0,Business Broadband,56
+CP,MSMB CP,,,ACTIVE,AirFiber COCP,41
+CP,MSMB CP,,,ACTIVE,Business Broadband,3380
+CP,MSMB CP,,,ACTIVE,ILL,6241
+CP,MSMB CP,,,ACTIVE,L2MPLS VPN,228
+CP,MSMB CP,,,ACTIVE,L3 MPLS VPN,1036
+CP,MSMB CP,,,ACTIVE,SDWAN,3
+CP,MSMB CP,,,ACTIVE,SIP Trunk,1640
+CP,MSMB CP,,,ACTIVE,Society Centrex,2
+CP,MSMB CP,,,ACTIVE,Tollfree,322
+CP,MSMB CP,,,ACTIVE,WIFI Hot Spot,4096
+CP,MSMB CP,,,ORDER CANCELLED,AirFiber COCP,11
+CP,MSMB CP,,,ORDER CANCELLED,Business Broadband,302
+CP,MSMB CP,,,ORDER CANCELLED,ILL,2745
+CP,MSMB CP,,,ORDER CANCELLED,L2MPLS VPN,211
+CP,MSMB CP,,,ORDER CANCELLED,L3 MPLS VPN,383
+CP,MSMB CP,,,ORDER CANCELLED,SIP Trunk,472
+CP,MSMB CP,,,ORDER CANCELLED - IWO closed,ILL,340
+CP,MSMB CP,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,50
+CP,MSMB CP,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,120
+CP,MSMB CP,,,ORDER CANCELLED - IWO closed,SIP Trunk,82
+CP,MSMB CP,,,SAF COMPLETED,AirFiber COCP,11
+CP,MSMB CP,,,SAF COMPLETED,Business Broadband,6
+CP,MSMB CP,,,SAF COMPLETED,ILL,40
+CP,MSMB CP,,,SAF COMPLETED,L2MPLS VPN,4
+CP,MSMB CP,,,SAF COMPLETED,L3 MPLS VPN,5
+CP,MSMB CP,,,SAF COMPLETED,SIP Trunk,5
+CP,MSMB CP,,,SAF OPEN STATUS,Enterprise WIFI,1
+CP,MSMB CP,,,SAF OPEN STATUS,ILL,108
+CP,MSMB CP,,,SAF OPEN STATUS,L2MPLS VPN,2
+CP,MSMB CP,,,SAF OPEN STATUS,L3 MPLS VPN,22
+CP,MSMB CP,,,SAF OPEN STATUS,SDWAN,3
+CP,MSMB CP,,,SAF OPEN STATUS,SIP Trunk,23
+Direct,MM Others,,,0,Business Broadband,1
+Direct,MM Others,,,ACTIVE,AirFiber COCP,19
+Direct,MM Others,,,ACTIVE,Business Broadband,338
+Direct,MM Others,,,ACTIVE,ILL,1575
+Direct,MM Others,,,ACTIVE,L2MPLS VPN,31
+Direct,MM Others,,,ACTIVE,L3 MPLS VPN,182
+Direct,MM Others,,,ACTIVE,SIP Trunk,289
+Direct,MM Others,,,ACTIVE,Tollfree,81
+Direct,MM Others,,,ACTIVE,WIFI Hot Spot,2274
+Direct,MM Others,,,ORDER CANCELLED,AirFiber COCP,10
+Direct,MM Others,,,ORDER CANCELLED,Business Broadband,92
+Direct,MM Others,,,ORDER CANCELLED,ILL,798
+Direct,MM Others,,,ORDER CANCELLED,L2MPLS VPN,18
+Direct,MM Others,,,ORDER CANCELLED,L3 MPLS VPN,133
+Direct,MM Others,,,ORDER CANCELLED,SIP Trunk,149
+Direct,MM Others,,,ORDER CANCELLED - IWO closed,ILL,88
+Direct,MM Others,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,6
+Direct,MM Others,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,28
+Direct,MM Others,,,ORDER CANCELLED - IWO closed,SIP Trunk,17
+Direct,MM Others,,,SAF COMPLETED,AirFiber COCP,5
+Direct,MM Others,,,SAF COMPLETED,Business Broadband,8
+Direct,MM Others,,,SAF COMPLETED,ILL,7
+Direct,MM Others,,,SAF COMPLETED,L3 MPLS VPN,8
+Direct,MM Others,,,SAF COMPLETED,SIP Trunk,1
+Direct,MM Others,,,SAF OPEN STATUS,ILL,44
+Direct,MM Others,,,SAF OPEN STATUS,L3 MPLS VPN,1
+Direct,MM Others,,,SAF OPEN STATUS,SDWAN,1
+Direct,MM Others,,,SAF OPEN STATUS,SIP Trunk,2
+Direct,MSMB Direct,,,0,Business Broadband,209
+Direct,MSMB Direct,,,ACTIVE,AirFiber COCP,939
+Direct,MSMB Direct,,,ACTIVE,Business Broadband,14390
+Direct,MSMB Direct,,,ACTIVE,ILL,16865
+Direct,MSMB Direct,,,ACTIVE,L2MPLS VPN,511
+Direct,MSMB Direct,,,ACTIVE,L3 MPLS VPN,1287
+Direct,MSMB Direct,,,ACTIVE,SDWAN,7
+Direct,MSMB Direct,,,ACTIVE,SIP Trunk,2819
+Direct,MSMB Direct,,,ACTIVE,Society Centrex,2
+Direct,MSMB Direct,,,ACTIVE,Tollfree,3856
+Direct,MSMB Direct,,,ACTIVE,WIFI Hot Spot,348
+Direct,MSMB Direct,,,ORDER CANCELLED,AirFiber COCP,359
+Direct,MSMB Direct,,,ORDER CANCELLED,Business Broadband,2242
+Direct,MSMB Direct,,,ORDER CANCELLED,ILL,8618
+Direct,MSMB Direct,,,ORDER CANCELLED,L2MPLS VPN,213
+Direct,MSMB Direct,,,ORDER CANCELLED,L3 MPLS VPN,399
+Direct,MSMB Direct,,,ORDER CANCELLED,SIP Trunk,1013
+Direct,MSMB Direct,,,ORDER CANCELLED - IWO closed,ILL,894
+Direct,MSMB Direct,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,78
+Direct,MSMB Direct,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,137
+Direct,MSMB Direct,,,ORDER CANCELLED - IWO closed,SIP Trunk,156
+Direct,MSMB Direct,,,SAF COMPLETED,AirFiber COCP,97
+Direct,MSMB Direct,,,SAF COMPLETED,Business Broadband,236
+Direct,MSMB Direct,,,SAF COMPLETED,ILL,117
+Direct,MSMB Direct,,,SAF COMPLETED,L2MPLS VPN,4
+Direct,MSMB Direct,,,SAF COMPLETED,L3 MPLS VPN,31
+Direct,MSMB Direct,,,SAF COMPLETED,SDWAN,3
+Direct,MSMB Direct,,,SAF COMPLETED,SIP Trunk,35
+Direct,MSMB Direct,,,SAF OPEN STATUS,ILL,340
+Direct,MSMB Direct,,,SAF OPEN STATUS,L2MPLS VPN,9
+Direct,MSMB Direct,,,SAF OPEN STATUS,L3 MPLS VPN,12
+Direct,MSMB Direct,,,SAF OPEN STATUS,SDWAN,10
+Direct,MSMB Direct,,,SAF OPEN STATUS,SIP Trunk,48
+Direct,MSMB Direct,,FTD,ACTIVE,Business Broadband,4
+Direct,MSMB Direct,FTD,,SAF OPEN STATUS,ILL,2
+JBA,MM JBA,,,ACTIVE,AirFiber COCP,2
+JBA,MM JBA,,,ACTIVE,Business Broadband,80
+JBA,MM JBA,,,ACTIVE,ILL,80
+JBA,MM JBA,,,ACTIVE,L2MPLS VPN,2
+JBA,MM JBA,,,ACTIVE,SIP Trunk,6
+JBA,MM JBA,,,ACTIVE,Tollfree,8
+JBA,MM JBA,,,ORDER CANCELLED,AirFiber COCP,1
+JBA,MM JBA,,,ORDER CANCELLED,Business Broadband,29
+JBA,MM JBA,,,ORDER CANCELLED,ILL,25
+JBA,MM JBA,,,ORDER CANCELLED,SIP Trunk,5
+JBA,MM JBA,,,ORDER CANCELLED - IWO closed,ILL,5
+JBA,MM JBA,,,ORDER CANCELLED - IWO closed,SIP Trunk,1
+JBA,MM JBA,,,SAF COMPLETED,AirFiber COCP,3
+JBA,MM JBA,,,SAF COMPLETED,Business Broadband,9
+JBA,MM JBA,,,SAF COMPLETED,ILL,2
+JBA,MM JBA,,,SAF COMPLETED,L2MPLS VPN,1
+JBA,MSMB JBA,,,0,Business Broadband,2
+JBA,MSMB JBA,,,0,WIFI Hot Spot,53
+JBA,MSMB JBA,,,ACTIVE,AirFiber COCP,32
+JBA,MSMB JBA,,,ACTIVE,Business Broadband,2456
+JBA,MSMB JBA,,,ACTIVE,ILL,712
+JBA,MSMB JBA,,,ACTIVE,L2MPLS VPN,6
+JBA,MSMB JBA,,,ACTIVE,L3 MPLS VPN,39
+JBA,MSMB JBA,,,ACTIVE,SDWAN,1
+JBA,MSMB JBA,,,ACTIVE,SIP Trunk,73
+JBA,MSMB JBA,,,ACTIVE,Society Centrex,3
+JBA,MSMB JBA,,,ACTIVE,Tollfree,397
+JBA,MSMB JBA,,,ACTIVE,WIFI Hot Spot,13540
+JBA,MSMB JBA,,,ORDER CANCELLED,AirFiber COCP,4
+JBA,MSMB JBA,,,ORDER CANCELLED,Business Broadband,303
+JBA,MSMB JBA,,,ORDER CANCELLED,ILL,271
+JBA,MSMB JBA,,,ORDER CANCELLED,L2MPLS VPN,1
+JBA,MSMB JBA,,,ORDER CANCELLED,L3 MPLS VPN,4
+JBA,MSMB JBA,,,ORDER CANCELLED,SIP Trunk,20
+JBA,MSMB JBA,,,ORDER CANCELLED - IWO closed,ILL,30
+JBA,MSMB JBA,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,3
+JBA,MSMB JBA,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,9
+JBA,MSMB JBA,,,ORDER CANCELLED - IWO closed,SIP Trunk,3
+JBA,MSMB JBA,,,SAF COMPLETED,AirFiber COCP,2
+JBA,MSMB JBA,,,SAF COMPLETED,Business Broadband,9
+JBA,MSMB JBA,,,SAF COMPLETED,L2MPLS VPN,2
+JBA,MSMB JBA,,,SAF OPEN STATUS,ILL,13
+JBA,MSMB JBA,,,SAF OPEN STATUS,SIP Trunk,1
+JBA,MSMB JBA,FTD,,SAF OPEN STATUS,ILL,1
+MM,MM Direct,,,0,Business Broadband,23
+MM,MM Direct,,,ACTIVE,AirFiber COCP,2
+MM,MM Direct,,,ACTIVE,Business Broadband,26
+MM,MM Direct,,,ACTIVE,ILL,2068
+MM,MM Direct,,,ACTIVE,L2MPLS VPN,56
+MM,MM Direct,,,ACTIVE,L3 MPLS VPN,263
+MM,MM Direct,,,ACTIVE,SDWAN,164
+MM,MM Direct,,,ACTIVE,SIP Trunk,225
+MM,MM Direct,,,ACTIVE,Tollfree,34
+MM,MM Direct,,,ORDER CANCELLED,AirFiber COCP,3
+MM,MM Direct,,,ORDER CANCELLED,Business Broadband,2
+MM,MM Direct,,,ORDER CANCELLED,ILL,846
+MM,MM Direct,,,ORDER CANCELLED,L2MPLS VPN,13
+MM,MM Direct,,,ORDER CANCELLED,L3 MPLS VPN,171
+MM,MM Direct,,,ORDER CANCELLED,SIP Trunk,76
+MM,MM Direct,,,ORDER CANCELLED - IWO closed,ILL,112
+MM,MM Direct,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,20
+MM,MM Direct,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,50
+MM,MM Direct,,,ORDER CANCELLED - IWO closed,SIP Trunk,9
+MM,MM Direct,,,SAF COMPLETED,AirFiber COCP,1
+MM,MM Direct,,,SAF COMPLETED,Business Broadband,6
+MM,MM Direct,,,SAF COMPLETED,ILL,35
+MM,MM Direct,,,SAF COMPLETED,L3 MPLS VPN,5
+MM,MM Direct,,,SAF COMPLETED,SDWAN,15
+MM,MM Direct,,,SAF COMPLETED,SIP Trunk,2
+MM,MM Direct,,,SAF OPEN STATUS,ILL,109
+MM,MM Direct,,,SAF OPEN STATUS,L2MPLS VPN,2
+MM,MM Direct,,,SAF OPEN STATUS,L3 MPLS VPN,1
+MM,MM Direct,,,SAF OPEN STATUS,SDWAN,75
+MM,MM Direct,,,SAF OPEN STATUS,SIP Trunk,7
+MM,MSMB Others,,,0,Business Broadband,11
+MM,MSMB Others,,,ACTIVE,Business Broadband,237
+MM,MSMB Others,,,ACTIVE,ILL,536
+MM,MSMB Others,,,ACTIVE,L2MPLS VPN,17
+MM,MSMB Others,,,ACTIVE,L3 MPLS VPN,226
+MM,MSMB Others,,,ACTIVE,SIP Trunk,232
+MM,MSMB Others,,,ACTIVE,Tollfree,43
+MM,MSMB Others,,,ACTIVE,WIFI Hot Spot,411
+MM,MSMB Others,,,ORDER CANCELLED,Business Broadband,188
+MM,MSMB Others,,,ORDER CANCELLED,ILL,296
+MM,MSMB Others,,,ORDER CANCELLED,IP Centrex,1
+MM,MSMB Others,,,ORDER CANCELLED,L2MPLS VPN,17
+MM,MSMB Others,,,ORDER CANCELLED,L3 MPLS VPN,93
+MM,MSMB Others,,,ORDER CANCELLED,SIP Trunk,72
+MM,MSMB Others,,,ORDER CANCELLED - IWO closed,ILL,33
+MM,MSMB Others,,,ORDER CANCELLED - IWO closed,IP Centrex,1
+MM,MSMB Others,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,3
+MM,MSMB Others,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,26
+MM,MSMB Others,,,ORDER CANCELLED - IWO closed,SIP Trunk,13
+MM,MSMB Others,,,SAF COMPLETED,Business Broadband,12
+MM,MSMB Others,,,SAF COMPLETED,ILL,1
+MM,MSMB Others,,,SAF OPEN STATUS,ILL,36
+Others,MM Others,,,ACTIVE,Business Broadband,876
+Others,MM Others,,,ACTIVE,ILL,1918
+Others,MM Others,,,ACTIVE,L2MPLS VPN,37
+Others,MM Others,,,ACTIVE,L3 MPLS VPN,343
+Others,MM Others,,,ACTIVE,SIP Trunk,391
+Others,MM Others,,,ACTIVE,Tollfree,158
+Others,MM Others,,,ACTIVE,WIFI Hot Spot,2487
+Others,MM Others,,,ORDER CANCELLED,Business Broadband,198
+Others,MM Others,,,ORDER CANCELLED,ILL,940
+Others,MM Others,,,ORDER CANCELLED,L2MPLS VPN,24
+Others,MM Others,,,ORDER CANCELLED,L3 MPLS VPN,263
+Others,MM Others,,,ORDER CANCELLED,SIP Trunk,384
+Others,MM Others,,,ORDER CANCELLED - IWO closed,ILL,87
+Others,MM Others,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,9
+Others,MM Others,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,29
+Others,MM Others,,,ORDER CANCELLED - IWO closed,SIP Trunk,46
+Others,MM Others,,,SAF COMPLETED,Business Broadband,4
+Others,MM Others,,,SAF COMPLETED,ILL,1
+Others,MM Others,,,SAF OPEN STATUS,ILL,1
+Others,MM Others,,,SAF OPEN STATUS,SIP Trunk,1
+Others,MSMB Others,,,0,Business Broadband,279
+Others,MSMB Others,,,ACTIVE,AirFiber COCP,301
+Others,MSMB Others,,,ACTIVE,AirFiber5G,25
+Others,MSMB Others,,,ACTIVE,Business Broadband,38651
+Others,MSMB Others,,,ACTIVE,Enterprise WIFI,3
+Others,MSMB Others,,,ACTIVE,ILL,32307
+Others,MSMB Others,,,ACTIVE,IP Centrex,36
+Others,MSMB Others,,,ACTIVE,L2MPLS VPN,4549
+Others,MSMB Others,,,ACTIVE,L3 MPLS VPN,79836
+Others,MSMB Others,,,ACTIVE,SDWAN,9551
+Others,MSMB Others,,,ACTIVE,SIP Trunk,4734
+Others,MSMB Others,,,ACTIVE,Society Centrex,437
+Others,MSMB Others,,,ACTIVE,Tollfree,6776
+Others,MSMB Others,,,ACTIVE,WIFI Hot Spot,20923
+Others,MSMB Others,,,ORDER CANCELLED,AirFiber COCP,32
+Others,MSMB Others,,,ORDER CANCELLED,AirFiber5G,4
+Others,MSMB Others,,,ORDER CANCELLED,Business Broadband,9926
+Others,MSMB Others,,,ORDER CANCELLED,Enterprise WIFI,16
+Others,MSMB Others,,,ORDER CANCELLED,ILL,22169
+Others,MSMB Others,,,ORDER CANCELLED,IP Centrex,51
+Others,MSMB Others,,,ORDER CANCELLED,L2MPLS VPN,1541
+Others,MSMB Others,,,ORDER CANCELLED,L3 MPLS VPN,56334
+Others,MSMB Others,,,ORDER CANCELLED,SDWAN,376
+Others,MSMB Others,,,ORDER CANCELLED,SIP Trunk,2201
+Others,MSMB Others,,,ORDER CANCELLED,Society Centrex,1
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,Business Broadband,1
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,Enterprise WIFI,3
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,ILL,1774
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,IP Centrex,7
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,L2MPLS VPN,509
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,L3 MPLS VPN,4566
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,SDWAN,102
+Others,MSMB Others,,,ORDER CANCELLED - IWO closed,SIP Trunk,349
+Others,MSMB Others,,,SAF COMPLETED,AirFiber COCP,262
+Others,MSMB Others,,,SAF COMPLETED,Business Broadband,491
+Others,MSMB Others,,,SAF COMPLETED,ILL,554
+Others,MSMB Others,,,SAF COMPLETED,IP Centrex,10
+Others,MSMB Others,,,SAF COMPLETED,L2MPLS VPN,227
+Others,MSMB Others,,,SAF COMPLETED,L3 MPLS VPN,1673
+Others,MSMB Others,,,SAF COMPLETED,SDWAN,575
+Others,MSMB Others,,,SAF COMPLETED,SIP Trunk,54
+Others,MSMB Others,,,SAF COMPLETED,Society Centrex,3
+Others,MSMB Others,,,SAF COMPLETED,Tollfree,1
+Others,MSMB Others,,,SAF OPEN STATUS,Enterprise WIFI,5
+Others,MSMB Others,,,SAF OPEN STATUS,ILL,952
+Others,MSMB Others,,,SAF OPEN STATUS,IP Centrex,2
+Others,MSMB Others,,,SAF OPEN STATUS,L2MPLS VPN,903
+Others,MSMB Others,,,SAF OPEN STATUS,L3 MPLS VPN,3135
+Others,MSMB Others,,,SAF OPEN STATUS,SDWAN,1727
+Others,MSMB Others,,,SAF OPEN STATUS,SIP Trunk,67
+CP,MSMB CP,,,a) Activation Completed,AF IOIP,1
+CP,MSMB CP,,,o ) In flight Cancelled,AF IOIP,1
+Direct,MSMB Direct,,,CANCELLED,AF IOIP,9
+Direct,MSMB Direct,,,Cancelled,AF IOIP,4
+Direct,MSMB Direct,,,Completed,AF IOIP,166
+Direct,MSMB Direct,,,a) Activation Completed,AF IOIP,21570
+Direct,MSMB Direct,,,b) DRAFT CAF Scan Pending,AF IOIP,2
+Direct,MSMB Direct,,,e) WO Created in ResQ CRM,AF IOIP,12
+Direct,MSMB Direct,,,f) WO Assigned to HC,AF IOIP,52
+Direct,MSMB Direct,,,g) WO Accepted by HC,AF IOIP,2
+Direct,MSMB Direct,,,h) WO In Progress by HC,AF IOIP,16
+Direct,MSMB Direct,,,i) WO On hold,AF IOIP,181
+Direct,MSMB Direct,,,l) Exception: ISO Work Orders Failed,AF IOIP,206
+Direct,MSMB Direct,,,m) Exception: Inward Failed Count,AF IOIP,85
+Direct,MSMB Direct,,,n) WO Cancelled,AF IOIP,2
+Direct,MSMB Direct,,,o ) In flight Cancelled,AF IOIP,5654
+Direct,MSMB Direct,,,r) AO Rejected/AO Approval pending,AF IOIP,114
+Direct,MSMB Direct,,,z) IN PROCESS,AF IOIP,2
+MM,MM Direct,,,a) Activation Completed,AF IOIP,32
+MM,MM Direct,,,m) Exception: Inward Failed Count,AF IOIP,1
+MM,MM Direct,,,o ) In flight Cancelled,AF IOIP,23
+MM,MM Direct,,,r) AO Rejected/AO Approval pending,AF IOIP,1
+MM,MSMB Others,,,a) Activation Completed,AF IOIP,66
+MM,MSMB Others,,,o ) In flight Cancelled,AF IOIP,34
+MM,MSMB Others,,,z) IN PROCESS,AF IOIP,1
+Others,MSMB Others,,,ACCEPTED,AF IOIP,1
+Others,MSMB Others,,,ASSIGNED,AF IOIP,6
+Others,MSMB Others,,,Assigned,AF IOIP,4
+Others,MSMB Others,,,CANCELLED,AF IOIP,2870
+Others,MSMB Others,,,COMPLETED,AF IOIP,2
+Others,MSMB Others,,,CREATED,AF IOIP,8
+Others,MSMB Others,,,Cancelled,AF IOIP,1134
+Others,MSMB Others,,,Completed,AF IOIP,75495
+Others,MSMB Others,,,HOLD,AF IOIP,15
+Others,MSMB Others,,,Hold,AF IOIP,24
+Others,MSMB Others,,,IN PROGRESS,AF IOIP,1
+Others,MSMB Others,,,READY FOR RESCHEDULE,AF IOIP,1
+Others,MSMB Others,,,Ready for Reschedule,AF IOIP,2
+Others,MSMB Others,,,a) Activation Completed,AF IOIP,1
+Others,MSMB Others,,,o ) In flight Cancelled,AF IOIP,1
+CP,MM CP,,,Change in Progress,ILL|ILL,3
+CP,MM CP,,,Completed,ILL|ILL,288
+CP,MM CP,,,Completed,L2MPLS VPN|L2MPLS VPN,2
+CP,MM CP,,,Completed,L3 MPLS VPN|L3 MPLS VPN,20
+CP,MM CP,,,Completed,SIP Trunk|SIP Trunk,152
+CP,MM CP,,MTD,Completed,ILL|ILL,1
+CP,MSMB CP,,,Change in Progress,ILL|ILL,4
+CP,MSMB CP,,,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,1
+CP,MSMB CP,,,Change in Progress,SIP Trunk|SIP Trunk,1
+CP,MSMB CP,,,Completed,ILL|ILL,1297
+CP,MSMB CP,,,Completed,L2MPLS VPN|L2MPLS VPN,29
+CP,MSMB CP,,,Completed,L3 MPLS VPN|L3 MPLS VPN,1099
+CP,MSMB CP,,,Completed,SIP Trunk|SIP Trunk,523
+CP,MSMB CP,,,Completed,Tollfree|Tollfree,51
+CP,MSMB CP,MTD,MTD,Change in Progress,SIP Trunk|SIP Trunk,1
+CP,MSMB CP,MTD,MTD,Completed,ILL|ILL,2
+Direct,MM Others,,,Change in Progress,ILL|ILL,31
+Direct,MM Others,,,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,3
+Direct,MM Others,,,Change in Progress,SIP Trunk|SIP Trunk,3
+Direct,MM Others,,,Completed,ILL|ILL,1032
+Direct,MM Others,,,Completed,L2MPLS VPN|L2MPLS VPN,25
+Direct,MM Others,,,Completed,L3 MPLS VPN|L3 MPLS VPN,171
+Direct,MM Others,,,Completed,SIP Trunk|SIP Trunk,353
+Direct,MM Others,,,Completed,Tollfree|Tollfree,152
+Direct,MM Others,MTD,MTD,Completed,ILL|ILL,1
+Direct,MSMB Direct,,,Change in Progress,ILL|ILL,132
+Direct,MSMB Direct,,,Change in Progress,L2MPLS VPN|L2MPLS VPN,3
+Direct,MSMB Direct,,,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,6
+Direct,MSMB Direct,,,Change in Progress,SIP Trunk|SIP Trunk,23
+Direct,MSMB Direct,,,Completed,ILL|ILL,6531
+Direct,MSMB Direct,,,Completed,L2MPLS VPN|L2MPLS VPN,62
+Direct,MSMB Direct,,,Completed,L3 MPLS VPN|L3 MPLS VPN,784
+Direct,MSMB Direct,,,Completed,SIP Trunk|SIP Trunk,1470
+Direct,MSMB Direct,,,Completed,Society Centrex|Society Centrex,1
+Direct,MSMB Direct,,,Completed,Tollfree|Tollfree,1479
+Direct,MSMB Direct,,,Order Cancellation,ILL|ILL,2
+Direct,MSMB Direct,,,Order Cancellation,SIP Trunk|SIP Trunk,1
+Direct,MSMB Direct,,MTD,Completed,ILL|ILL,6
+Direct,MSMB Direct,,MTD,Completed,L3 MPLS VPN|L3 MPLS VPN,1
+Direct,MSMB Direct,,MTD,Completed,SIP Trunk|SIP Trunk,1
+Direct,MSMB Direct,MTD,MTD,Change in Progress,ILL|ILL,1
+Direct,MSMB Direct,MTD,MTD,Completed,ILL|ILL,18
+Direct,MSMB Direct,MTD,MTD,Completed,L3 MPLS VPN|L3 MPLS VPN,1
+Direct,MSMB Direct,MTD,MTD,Completed,SIP Trunk|SIP Trunk,1
+JBA,MM JBA,,,Completed,ILL|ILL,19
+JBA,MM JBA,,,Completed,SIP Trunk|SIP Trunk,4
+JBA,MM JBA,,,Completed,Tollfree|Tollfree,3
+JBA,MSMB JBA,,,Change in Progress,ILL|ILL,5
+JBA,MSMB JBA,,,Completed,ILL|ILL,243
+JBA,MSMB JBA,,,Completed,L2MPLS VPN|L2MPLS VPN,2
+JBA,MSMB JBA,,,Completed,L3 MPLS VPN|L3 MPLS VPN,31
+JBA,MSMB JBA,,,Completed,SIP Trunk|SIP Trunk,32
+JBA,MSMB JBA,,,Completed,Tollfree|Tollfree,205
+JBA,MSMB JBA,MTD,MTD,Completed,ILL|ILL,1
+MM,MM Direct,,,Change in Progress,ILL|ILL,8
+MM,MM Direct,,,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,1
+MM,MM Direct,,,Change in Progress,SIP Trunk|SIP Trunk,1
+MM,MM Direct,,,Completed,ILL|ILL,622
+MM,MM Direct,,,Completed,L2MPLS VPN|L2MPLS VPN,9
+MM,MM Direct,,,Completed,L3 MPLS VPN|L3 MPLS VPN,90
+MM,MM Direct,,,Completed,SIP Trunk|SIP Trunk,205
+MM,MM Direct,MTD,MTD,Completed,ILL|ILL,17
+MM,MSMB Others,,,Change in Progress,ILL|ILL,3
+MM,MSMB Others,,,Change in Progress,SIP Trunk|SIP Trunk,1
+MM,MSMB Others,,,Completed,ILL|ILL,283
+MM,MSMB Others,,,Completed,L2MPLS VPN|L2MPLS VPN,10
+MM,MSMB Others,,,Completed,L3 MPLS VPN|L3 MPLS VPN,159
+MM,MSMB Others,,,Completed,SIP Trunk|SIP Trunk,153
+MM,MSMB Others,,,Completed,Tollfree|Tollfree,24
+Others,MM Others,,,Change in Progress,ILL|ILL,58
+Others,MM Others,,,Change in Progress,L2MPLS VPN|L2MPLS VPN,3
+Others,MM Others,,,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,13
+Others,MM Others,,,Change in Progress,SIP Trunk|SIP Trunk,12
+Others,MM Others,,,Completed,ILL|ILL,1714
+Others,MM Others,,,Completed,L2MPLS VPN|L2MPLS VPN,24
+Others,MM Others,,,Completed,L3 MPLS VPN|L3 MPLS VPN,548
+Others,MM Others,,,Completed,SIP Trunk|SIP Trunk,862
+Others,MM Others,,,Completed,Tollfree|Tollfree,74
+Others,MM Others,,MTD,Completed,ILL|ILL,9
+Others,MM Others,,MTD,Completed,L3 MPLS VPN|L3 MPLS VPN,4
+Others,MM Others,MTD,MTD,Change in Progress,ILL|ILL,3
+Others,MM Others,MTD,MTD,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,1
+Others,MM Others,MTD,MTD,Completed,ILL|ILL,8
+Others,MM Others,MTD,MTD,Completed,SIP Trunk|SIP Trunk,1
+Others,MSMB Others,,,0,ILL|ILL,14
+Others,MSMB Others,,,Change in Progress,ILL|ILL,468
+Others,MSMB Others,,,Change in Progress,L2MPLS VPN|L2MPLS VPN,31
+Others,MSMB Others,,,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,733
+Others,MSMB Others,,,Change in Progress,SIP Trunk|SIP Trunk,86
+Others,MSMB Others,,,Change in Progress,Society Centrex|Society Centrex,2
+Others,MSMB Others,,,Change in Progress,Tollfree|Tollfree,3
+Others,MSMB Others,,,Completed,Enterprise WIFI|Enterprise WIFI,1
+Others,MSMB Others,,,Completed,ILL|ILL,22776
+Others,MSMB Others,,,Completed,L2MPLS VPN|L2MPLS VPN,3206
+Others,MSMB Others,,,Completed,L3 MPLS VPN|L3 MPLS VPN,55386
+Others,MSMB Others,,,Completed,SDWAN,1
+Others,MSMB Others,,,Completed,SIP Trunk|SIP Trunk,5272
+Others,MSMB Others,,,Completed,Society Centrex|Society Centrex,1405
+Others,MSMB Others,,,Completed,Tollfree|Tollfree,5780
+Others,MSMB Others,,,Order Cancellation,ILL|ILL,1
+Others,MSMB Others,,,Order Cancellation,L3 MPLS VPN|L3 MPLS VPN,40
+Others,MSMB Others,,,Order Cancellation,SIP Trunk|SIP Trunk,2
+Others,MSMB Others,,,Order Cancellation,Society Centrex|Society Centrex,1
+Others,MSMB Others,,MTD,Completed,ILL|ILL,68
+Others,MSMB Others,,MTD,Completed,L2MPLS VPN|L2MPLS VPN,4
+Others,MSMB Others,,MTD,Completed,L3 MPLS VPN|L3 MPLS VPN,49
+Others,MSMB Others,,MTD,Completed,SIP Trunk|SIP Trunk,3
+Others,MSMB Others,FTD,MTD,Completed,ILL|ILL,2
+Others,MSMB Others,FTD,MTD,Completed,L3 MPLS VPN|L3 MPLS VPN,9
+Others,MSMB Others,MTD,FTD,Completed,L3 MPLS VPN|L3 MPLS VPN,1
+Others,MSMB Others,MTD,MTD,Change in Progress,ILL|ILL,26
+Others,MSMB Others,MTD,MTD,Change in Progress,L2MPLS VPN|L2MPLS VPN,7
+Others,MSMB Others,MTD,MTD,Change in Progress,L3 MPLS VPN|L3 MPLS VPN,68
+Others,MSMB Others,MTD,MTD,Change in Progress,SIP Trunk|SIP Trunk,2
+Others,MSMB Others,MTD,MTD,Completed,ILL|ILL,244
+Others,MSMB Others,MTD,MTD,Completed,L2MPLS VPN|L2MPLS VPN,1
+Others,MSMB Others,MTD,MTD,Completed,L3 MPLS VPN|L3 MPLS VPN,155
+Others,MSMB Others,MTD,MTD,Completed,SIP Trunk|SIP Trunk,8
