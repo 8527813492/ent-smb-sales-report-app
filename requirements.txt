@@ -3,5 +3,3 @@ pandas
 matplotlib
 numpy
 plotly
-
-Add requirements.txt for Streamlit deployment
