@@ -29,3 +29,13 @@ st.dataframe(filtered_df)
 
 # Show chart
 st.bar_chart(filtered_df.groupby('Product')['Distinct Order Count'].sum())
+
+# Download button
+csv = df.to_csv(index=False).encode('utf-8')  # or use filtered_df
+
+st.download_button(
+    label="⬇️ Download CSV",
+    data=csv,
+    file_name='filtered_report.csv',
+    mime='text/csv'
+)
