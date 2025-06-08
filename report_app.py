@@ -3,7 +3,7 @@ import pandas as pd
 
 # Load the MACD data
 df = pd.read_csv(
-    r"C://Users//goutam.yadav//OneDrive - Reliance Corporate IT Park Limited//Desktop//Anaconda//Report.csv",
+    "Report.csv",
     encoding='cp1252',
     low_memory=False
 )
