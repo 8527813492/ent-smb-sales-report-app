@@ -14,17 +14,14 @@ st.title("Interactive Order Report")
 
 # Filters
 actor_seg = st.multiselect("Select Actor Segment", df['Actor Seg'].unique())
-status = st.multiselect("Select Order Status", df['Order Status'].unique())
-product = st.multiselect("Select Product", df['Product'].unique())
+product_name = st.multiselect("Select Product", df['Product_name'].unique())
 
 # Filter data
 filtered_df = df.copy()
 if actor_seg:
     filtered_df = filtered_df[filtered_df['Actor Seg'].isin(actor_seg)]
-if status:
-    filtered_df = filtered_df[filtered_df['Order Status'].isin(status)]
-if product:
-    filtered_df = filtered_df[filtered_df['Product'].isin(product)]
+if product_name:
+    filtered_df = filtered_df[filtered_df['Product'].isin(product_name)]
 
 # Show filtered data table
 st.subheader("Filtered Data")
@@ -32,7 +29,6 @@ st.dataframe(filtered_df)
 
 # Aggregate data for charts
 agg_product = filtered_df.groupby('Product')['Distinct Order Count'].sum()
-agg_status = filtered_df.groupby('Order Status')['Distinct Order Count'].sum()
 agg_actor = filtered_df.groupby('Actor Seg')['Distinct Order Count'].sum()
 
 # Layout charts side by side
@@ -41,10 +37,6 @@ col1, col2, col3 = st.columns(3)
 with col1:
     st.subheader("Orders by Product")
     st.bar_chart(agg_product)
-
-with col2:
-    st.subheader("Orders by Status")
-    st.bar_chart(agg_status)
 
 with col3:
     st.subheader("Orders by Actor Segment")
